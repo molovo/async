@@ -26,5 +26,8 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+      "ext-pcntl": "*",
+      "ext-sockets": "*"
+    }
 }
